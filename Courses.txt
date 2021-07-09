@@ -1,0 +1,9 @@
+Basics of Supply Chain
+o9 Platform - Functional Overview
+o9 Platform Architecture
+Creating a Model - Beginner's Guide
+Hadoop Hive Overview
+IBPL for Beginners
+Data Integration - Introduction
+Integration Services - SSIS
+Reference Product Integration (R2020.12)
